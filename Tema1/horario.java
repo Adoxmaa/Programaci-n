@@ -1,5 +1,5 @@
 public class horario{
-public static main void(string [] arg) {
+public static void main(String[] arg) {
     System.out.println("LUNES/tMARTES/tMIERCOLES/tJUEVES/tVIERNES");
     System.out.println("_________________________________________");
     System.out.println("LMDAW/tBDDAW/tSIDAW/tPRDAW/tEDDAW");
