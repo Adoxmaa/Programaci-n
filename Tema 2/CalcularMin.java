@@ -13,7 +13,7 @@ public class CalcularMin {
 
         minutos= segundos/60;
         horas=minutos/60;
-        segundosRestantes= minutos%60;
+        segundosRestantes= segundos%60;
         System.out.println ("El numero de horas es" +horas + ", los minutos son" + minutos + "los segundos restantes son" + segundosRestantes);
     }
 }
