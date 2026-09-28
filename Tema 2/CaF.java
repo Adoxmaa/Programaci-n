@@ -7,6 +7,6 @@ public class CaF{
         System.out.println ("Ingrese la temperatura de grados celsius para transformarla a grados fahrenheit");
         celsius= sc.nextDouble();
         fahrenheit= (9.0/5)*celsius+32;
-     System.out.println ("La temperatura en grados farenheit es de " +fahrenheit);
+     System.out.println ("La temperatura en grados fahrenheit es de " +fahrenheit);
     }
     }
