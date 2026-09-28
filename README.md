@@ -13,14 +13,11 @@
 ## Tema 2 - Programacion Elemental
 |Nombre | Descripción|                           
 | --------|-----------|
-[CalcularMin.java](/Tema%202/CalcularMin.java)
-|[CaF.java](/Tema2/CaF.java) | Convierte una temperatura de Celsius a Fahrenheit
-|[ConversorFaC.java](/Tema2/ConversorFaC.java) | Convierte una temperatura de Fahrenheit a Celsius
-|[1.java](/Tema2/1.java) | 1
-|[1.java](/Tema2/1.java) | 1
-|[1.java](/Tema2/1.java) | 1
-|[1.java](/Tema2/1.java) | 1
-|[1.java](/Tema2/1.java) | 1
-|[1.java](/Tema2/1.java) | 1
-
-
+[CalcularMin.java](/Tema%202/CalcularMin.java) | Convierte una cantidad de segundos en horas, minutos y segundos
+|[CaF.java](/Tema%202/CaF.java) | Convierte una temperatura de Celsius a Fahrenheit
+|[ConversorFaC.java](/Tema%202/ConversorFaC.java) | Convierte una temperatura de Fahrenheit a Celsius
+|[1.java](/Tema%202/1.java) | 1
+|[1.java](/Tema%202/1.java) | 1
+|[1.java](/Tema%202/1.java) | 1
+|[1.java](/Tema%202/1.java) | 1
+|[1.java](/Tema%202/1.java) | 1
