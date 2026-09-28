@@ -13,4 +13,6 @@
 ## Tema 2 - Programacion Elemental
 |Nombre | Descripción|                           
 | --------|-----------|
-|[1.java](/Java/1.java) | 1
+|[CalcularMin.java](/Java/CalcularMin.java) | Convierte una cantidad de segundos en horas, minutos y segundos
+|[CaF.java](/Java/CaF.java) | Convierte una temperatura de Celsius a Fahrenheit
+|[ConversorFaC.java](/Java/ConversorFaC.java) | Convierte una temperatura de Fahrenheit a Celsius
