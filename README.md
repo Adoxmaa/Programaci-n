@@ -17,7 +17,11 @@
 |[CaF.java](/Tema%202/CaF.java) | Convierte una temperatura de Celsius a Fahrenheit
 |[ConversorFaC.java](/Tema%202/ConversorFaC.java) | Convierte una temperatura de Fahrenheit a Celsius
 |[salario.java](/Tema%202/salario.java) | Calcula el salario semanal a partir de las horas trabajadas
+|[cono.java](/Tema%202/cono.java) | Calcula el volumen de un cono
 |[kbamb.java](/Tema%202/kbamb.java) | Conversor de Kb a Mb
-|[.java](/Tema%202/1.java) | Conversor de Mb a Kb
+|[mbakb.java](/Tema%202/mbakb.java) | Conversor de Mb a Kb
 |[1.java](/Tema%202/1.java) | 1
+
+## Tema 3 -
 |[1.java](/Tema%202/1.java) | 1
+
