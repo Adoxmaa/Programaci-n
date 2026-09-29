@@ -1,5 +1,6 @@
 import java.util.Scanner;
-    public class salario {
+
+public class salario {
         public static void main(String[] args) {
             Scanner sc= new Scanner(System.in);
             double salarioSemanal= 0.0;
@@ -10,4 +11,4 @@ import java.util.Scanner;
             salarioSemanal= numerohoras*SalarioHora;
             System.out.println("El salario semanal es de: "+ salarioSemanal);
         }
-    }
+}
