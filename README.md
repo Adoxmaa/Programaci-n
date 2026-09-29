@@ -16,8 +16,8 @@
 [CalcularMin.java](/Tema%202/CalcularMin.java) | Convierte una cantidad de segundos en horas, minutos y segundos
 |[CaF.java](/Tema%202/CaF.java) | Convierte una temperatura de Celsius a Fahrenheit
 |[ConversorFaC.java](/Tema%202/ConversorFaC.java) | Convierte una temperatura de Fahrenheit a Celsius
-|[1.java](/Tema%202/1.java) | 1
-|[1.java](/Tema%202/1.java) | 1
-|[1.java](/Tema%202/1.java) | 1
+|[salario.java](/Tema%202/salario.java) | Calcula el salario semanal a partir de las horas trabajadas
+|[kbamb.java](/Tema%202/kbamb.java) | Conversor de Kb a Mb
+|[.java](/Tema%202/1.java) | Conversor de Mb a Kb
 |[1.java](/Tema%202/1.java) | 1
 |[1.java](/Tema%202/1.java) | 1
