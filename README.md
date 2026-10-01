@@ -24,5 +24,5 @@
 ## Tema 3 -
 |Nombre | Descripción|                           
 | --------|-----------|
-|[1.java](/Tema%303/1.java) | 1
+|[Randomizador.java](/Tema%303/Randomizador.java) | Genera 2 números aleatorios, los suma y te dice si tu respuesta es correcta
 
