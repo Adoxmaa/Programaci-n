@@ -23,5 +23,5 @@
 |[1.java](/Tema%202/1.java) | 1
 
 ## Tema 3 -
-|[1.java](/Tema%202/1.java) | 1
+|[1.java](/Tema%303/1.java) | 1
 
