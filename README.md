@@ -26,7 +26,7 @@
 | --------|-----------|
 |[Randomizador.java](/Tema%203/Randomizador.java) | Genera 2 números aleatorios, los suma y te dice si tu respuesta es correcta
 |[Algorit.java](/Tema%203/Algorit.java) | Operaciones de Algoritmo
-|[CertificadoEdad.java](/Tema%203/CertificadoEdad.java) | Te dice si eres mayor o menor de edad en proporción a la edad introducida por el usuario
+|[CertificadodeEdad.java](/Tema%203/CertificadodeEdad.java) | Te dice si eres mayor o menor de edad en proporción a la edad introducida por el usuario
 |[MayorDeDos.java](/Tema%203/MayorDeDos.java) | Acepta dos números desde teclado e indica cual de los números es mayor
 |[Menormayor.java](/Tema%203/Menormayor.java) | Acepta dos números desde teclado e indica cual de los números es menor
 |[Ordenar.java](/Tema%203/Ordenar.java) | Acepta tres números desde teclado y los muestra ordenados de menor a mayor
