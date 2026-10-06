@@ -16,7 +16,7 @@ public class P5 {
             System.out.println("Enhorabuena, ha aprobado. Su media es " + media);
         }
         else {
-            sc.nextLine(); // limpia el salto de línea pendiente
+            sc.nextLine();
 
             System.out.println("¿Cuál ha sido el resultado de la recuperación? (apto/no apto)");
             String recu = sc.nextLine();
