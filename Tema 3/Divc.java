@@ -12,10 +12,10 @@ public class Divc {
         if (num%2==0 && num%3==0){
             System.out.println("El número es divisible por 2 y 3");
         }
-        else if (num%2==0 || num%3!=0){
+        else if (num%2==0){
             System.out.println("El número es divisible por 2");
         }
-        else if (num%2!=0 || num%3==0){
+        else if (num%3==0){
             System.out.println("El número es divisible por 3");
         }
         else if (num%2==0 ^ num%3==0){
