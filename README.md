@@ -30,6 +30,9 @@
 |[MayorDeDos.java](/Tema%203/MayorDeDos.java) | Acepta dos números desde teclado e indica cual de los números es mayor
 |[Menormayor.java](/Tema%203/Menormayor.java) | Acepta dos números desde teclado e indica cual de los números es menor
 |[Ordenar.java](/Tema%203/Ordenar.java) | Acepta tres números desde teclado y los muestra ordenados de menor a mayor
+|[Divc.java](/Tema%203/Divc.java) | Verifica si un número es divisible por 2 y 3, si un número es divisible por 2 ó 3, y si un número es divisible por 2 ó 3 pero no por ambos
+|[Primerahoraasig.java](/Tema%203/Primerahoraasig.java) | Introduces que día de la semana es y te dice que asignatura toca a primera hora
+|[bis.java](/Tema%203/bis.java) | Te dice si el año introducido es bisiesto o no
 |[1.java](/Tema%203/1.java) | 1
 |[1.java](/Tema%203/1.java) | 1
 |[1.java](/Tema%203/1.java) | 1
