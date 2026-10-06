@@ -33,7 +33,7 @@
 |[Divc.java](/Tema%203/Divc.java) | Verifica si un número es divisible por 2 y 3, si un número es divisible por 2 ó 3, y si un número es divisible por 2 ó 3 pero no por ambos
 |[Primerahoraasig.java](/Tema%203/Primerahoraasig.java) | Introduces que día de la semana es y te dice que asignatura toca a primera hora
 |[bis.java](/Tema%203/bis.java) | Te dice si el año introducido es bisiesto o no
-|[Buenos.java](/Tema%203/Buenos.java) | pida una hora por teclado y que muestre luego buenos días, buenas tardes o buenas noches según la hora. Se utilizarán los tramos de 6 a 12, de 13 a 20 y de 21 a 5
+|[Buenos.java](/Tema%203/Buenos.java) | Pide una hora por teclado y que muestre luego buenos días, buenas tardes o buenas noches según la hora. Se utilizarán los tramos de 6 a 12, de 13 a 20 y de 21 a 5
 |[1.java](/Tema%203/1.java) | 1
 |[1.java](/Tema%203/1.java) | 1
 
