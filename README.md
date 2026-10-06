@@ -34,7 +34,7 @@
 |[Primerahoraasig.java](/Tema%203/Primerahoraasig.java) | Introduces que día de la semana es y te dice que asignatura toca a primera hora
 |[bis.java](/Tema%203/bis.java) | Te dice si el año introducido es bisiesto o no
 |[Buenos.java](/Tema%203/Buenos.java) | Pide una hora por teclado y que muestre luego buenos días, buenas tardes o buenas noches según la hora. Se utilizarán los tramos de 6 a 12, de 13 a 20 y de 21 a 5
-|[1.java](/Tema%203/1.java) | 1
+|[Horoscopo.java](/Tema%203/Horoscopo.java) | Dice nuestro horóscopo a partir de nuestro día y mes de nacimiento
 |[1.java](/Tema%203/1.java) | 1
 
 
