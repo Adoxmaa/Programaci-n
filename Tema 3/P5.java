@@ -5,27 +5,25 @@ public class P5 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Introduzca la nota del primer control:");
-        double not1 = sc.nextDouble();
+        double nota1 = sc.nextDouble();
 
         System.out.println("Introduzca la nota del segundo control:");
-        double not2 = sc.nextDouble();
+        double nota2 = sc.nextDouble();
 
-        double media = (not1 + not2) / 2;
+        double media = (nota1 + nota2) / 2;
 
         if (media >= 5) {
             System.out.println("Enhorabuena, ha aprobado. Su media es " + media);
         }
         else {
-            sc.nextLine();
+            System.out.println("¿Resultado de la recuperación? (1 = apto, 2 = no apto)");
+            int recuperacion = sc.nextInt();
 
-            System.out.println("¿Cuál ha sido el resultado de la recuperación? (apto/no apto)");
-            String recu = sc.nextLine();
-
-            if (recu.equalsIgnoreCase("apto")) {
+            if (recuperacion == 1) {
                 System.out.println("Ha aprobado la recuperación. Su nota es 5");
             }
             else {
-                System.out.println("Recuperación no apta. Su nota se mantiene en " + media);
+                System.out.println("No apto. Su nota se mantiene en " + media);
             }
         }
     }
