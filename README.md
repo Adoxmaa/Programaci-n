@@ -35,6 +35,19 @@
 |[bis.java](/Tema%203/bis.java) | Te dice si el año introducido es bisiesto o no
 |[Buenos.java](/Tema%203/Buenos.java) | Pide una hora por teclado y que muestre luego buenos días, buenas tardes o buenas noches según la hora. Se utilizarán los tramos de 6 a 12, de 13 a 20 y de 21 a 5
 |[Horoscopo.java](/Tema%203/Horoscopo.java) | Dice nuestro horóscopo a partir de nuestro día y mes de nacimiento
-|[1.java](/Tema%203/1.java) | 1
+|[Capi.java](/Tema%203/Capi.java) | Dice si un número entero positivo introducido por teclado escapicúa. Se permiten números de hasta 5 cifras.
+|[Aprob.java](/Tema%203/Aprob.java) | Calcula la nota de un trimestre de la asignatura Programación. El programa pedirá las dos notas que ha sacado el alumno en los dos primeros controles. Si la media de los dos controles da un número mayor o igual a 5, el alumno está aprobado y se mostrará
+la media. En caso de que la media sea un número menor que 5, el alumno habrá tenido
+que hacer el examen de recuperación que se califica como apto o no apto, por tanto se
+debe preguntar al usuario ¿Cuál ha sido el resultado de la recuperación? (apto/no apto).
+Si el resultado de la recuperación es apto, la nota será un 5; en caso contrario, se
+mantiene la nota media anterior.
+
+
+
+
+
+|[1.java](/Tema%204/1.java) | 1
+|[1.java](/Tema%204/1.java) | 1
 
 
