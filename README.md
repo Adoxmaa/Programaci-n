@@ -44,8 +44,8 @@
 ## Tema 4 -
 |Nombre | Descripción|                           
 | --------|-----------|
-|[Prob.java](/Tema%204/Prob.java) | Baraja francesa
+|[Prob.java](/Tema%204/Prob.java) | Realiza un programa que muestre al azar el nombre de una carta de la baraja francesa. Esta baraja está dividida en cuatro palos: picas, corazones, diamantes y tréboles. Cada palo está formado por 13 cartas, de las cuales 9 cartas son numerales y 4 literales: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K y A (que sería el 1). 
 |[Lot.java](/Tema%204/Lot.java) | Realiza un programa para rellenar una quiniela al azar, el programa muestra un 1, una X o un 2 pero, haciendo que la probabilidad de que salga un 1 sea de 1/2, la probabilidad de que salga X sea de 1/3 y la probabilidad de que salga 2 sea de 1/6. Pista: 1/2 = 3/6 y 1/3 = 2/6. 
-
-
-
+|[Minusmas.java](/Tema%204/Minusmas.java) | Realiza un programa que escriba por pantalla una palabra formada por 5 caracteres alfabéticos aleatorios en mayúsculas y esos mismos en minúsculas. 
+|[Carac.java](/Tema%204/Carac.java) | Realiza un programa que pinte por pantalla una línea con 5 caracteres. El carácter con el que se pinta esa línea se elige de forma aleatoria entre uno de los siguientes: #,$,€,&
+|[Carac2.java](/Tema%204/Carac2.java) | Realiza el programa anterior con los siguientes caracteres:*, -, =, ., |, @.
