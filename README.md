@@ -44,7 +44,7 @@
 ## Tema 4 -
 |Nombre | Descripción|                           
 | --------|-----------|
-|[1.java](/Tema%204/1.java) | 1
-|[1.java](/Tema%204/1.java) | 1
+|[Prob.java](/Tema%204/Prob.java) | Baraja francesa
+|[Lot.java](/Tema%204/Lot.java) | Quiniela
 
 
