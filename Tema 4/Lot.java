@@ -2,7 +2,7 @@ public class Lot {
     public static void main(String[] args) {
         int dado;
         int random=1;
-        while(random=<15){
+        while(random<=15){
         dado = (int) (1 + Math.random() * 6); 
 
         if (dado <= 3) {
