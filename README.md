@@ -49,10 +49,10 @@
 |[Minusmas.java](/Tema%204/Minusmas.java) | Realiza un programa que escriba por pantalla una palabra formada por 5 caracteres alfabéticos aleatorios en mayúsculas y esos mismos en minúsculas. 
 |[Carac.java](/Tema%204/Carac.java) | Realiza un programa que pinte por pantalla una línea con 5 caracteres. El carácter con el que se pinta esa línea se elige de forma aleatoria entre uno de los siguientes: #,$,€,&
 |[Carac2.java](/Tema%204/Carac2.java) | Realiza el programa anterior con los siguientes caracteres:*, -, =, ., |, @.
-|[PartirNumero.java](/Tema%204/PartirNumero.java) | 
-|[InsertarEnMitad.java](/Tema%204/InsertarEnMitad.java) | 
-|[InsertarDigito.java](/Tema%204/InsertarDigito.java) | 
-|[DividirEnPrimeraA.java](/Tema%204/DividirEnPrimeraA.java) | 
+|[PartirNumero.java](/Tema%204/PartirNumero.java) | Parte la palabra según el numero introducido
+|[InsertarEnMitad.java](/Tema%204/InsertarEnMitad.java) | Inserta <> en medio de la palabra
+|[InsertarDigito.java](/Tema%204/InsertarDigito.java) | Inserta un digito
+|[DividirEnPrimeraA.java](/Tema%204/DividirEnPrimeraA.java) | Divide en la primera A
 |[1.java](/Tema%205/1.java) | 
 
 ## Tema 5 - 
