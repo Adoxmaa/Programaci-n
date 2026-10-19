@@ -53,7 +53,10 @@
 |[InsertarEnMitad.java](/Tema%204/InsertarEnMitad.java) | Inserta <> en medio de la palabra
 |[InsertarDigito.java](/Tema%204/InsertarDigito.java) | Inserta un digito
 |[DividirEnPrimeraA.java](/Tema%204/DividirEnPrimeraA.java) | Divide en la primera A
-|[1.java](/Tema%205/1.java) | 
+|[Notas.java.java](/Tema%204/Notas.java.java) | Introduce 5 notas desde teclado y muestra para cada nota, la nota redondeada con un decimal al alza, a la baja, la nota truncada en las unidades y al final muestra la media e indica el máximo y mínimo.
+|[NumeroCadena.java](/Tema%204/NumeroCadena.java) | Escribe un programa que lea un número por teclado con un mínimo de 2 dígitos y un máximo de 7. Se introducirá dicho número en una cadena (String). Debemos asegurarnos que el número está compuesto exclusivamente por dígitos y que la longitud esté comprendida entre 2 y 7.
+|[Nombre.java.java](/Tema%204/Nombre.java.java) | Escribe un programa que lea el nombre y dos apellidos y nos almacene en cadenas separadas el nombre, el primer apellido y el segundo apellido. 
+
 
 ## Tema 5 - 
 |Nombre | Descripción|                           
