@@ -21,7 +21,7 @@
 |[kbamb.java](/Tema%202/kbamb.java) | Conversor de Kb a Mb
 |[mbakb.java](/Tema%202/mbakb.java) | Conversor de Mb a Kb
 
-## Tema 3 -
+## Tema 3 - Selecciones
 |Nombre | Descripción|                           
 | --------|-----------|
 |[Randomizador.java](/Tema%203/Randomizador.java) | Genera 2 números aleatorios, los suma y te dice si tu respuesta es correcta
@@ -41,7 +41,7 @@
 
 
 
-## Tema 4 -
+## Tema 4 - Métodos matemáticos, caracteres y cadenas
 |Nombre | Descripción|                           
 | --------|-----------|
 |[Prob.java](/Tema%204/Prob.java) | Realiza un programa que muestre al azar el nombre de una carta de la baraja francesa. Esta baraja está dividida en cuatro palos: picas, corazones, diamantes y tréboles. Cada palo está formado por 13 cartas, de las cuales 9 cartas son numerales y 4 literales: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K y A (que sería el 1). 
@@ -58,7 +58,7 @@
 |[Nombre.java](/Tema%204/Nombre.java) | Escribe un programa que lea el nombre y dos apellidos y nos almacene en cadenas separadas el nombre, el primer apellido y el segundo apellido. 
 
 
-## Tema 5 - 
+## Tema 5 - Bucles
 |Nombre | Descripción|                           
 | --------|-----------|
 |[1.java](/Tema%205/1.java) | 
@@ -66,14 +66,17 @@
 |[1.java](/Tema%205/1.java) | 
 |[1.java](/Tema%205/1.java) | 
 |[1.java](/Tema%205/1.java) | 
+|[1.java](/Tema%205/1.java) | 
 
 
 
-## Tema 6 - 
+## Tema 6 - Métodos
 |Nombre | Descripción|                           
 | --------|-----------|
-|[1.java](/Tema%205/1.java) | 
-|[1.java](/Tema%205/1.java) | 
-|[1.java](/Tema%205/1.java) | 
-|[1.java](/Tema%205/1.java) | 
-|[1.java](/Tema%205/1.java) | 
+|[1.java](/Tema%206/1.java) | 
+|[1.java](/Tema%206/1.java) | 
+|[1.java](/Tema%206/1.java) | 
+|[1.java](/Tema%206/1.java) | 
+|[1.java](/Tema%206/1.java) | 
+|[1.java](/Tema%206/1.java) | 
+
