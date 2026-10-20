@@ -1,7 +1,11 @@
 import java.util.Scanner;
+
 public class AleatorioAcert {
-    public static void main (String [] args){
-        Scanner input= new Scanner (System.in);
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        int num = (int) (Math.random() * 101);
+        int adivino = -1;
 
 /*
     Escriba un programa que genere aleatoriamente un 
@@ -13,18 +17,21 @@ public class AleatorioAcert {
     la siguiente entrada de forma inteligente.
 */
 
-        int num=(int) (Math.random()*100);
-        int i=0;
-        
-        while
-        System.out.println("Intente adivinar el número: ");
-        int adivino=input.nextInt();
-        if (num<adivino){
-            System.out.println("El número es menor ");
+        while (adivino != num) {
+            System.out.println("Intente adivinar el número: ");
+            adivino = input.nextInt();
+
+            if (num < adivino) {
+                System.out.println("El número es menor");
+            }
+            else if (num > adivino) {
+                System.out.println("El número es mayor");
+            }
+            else {
+                System.out.println("Has acertado, enhorabuena");
+            }
         }
-        else if (num>adivino){
-            System.out.println("El número es mayor ");
-        }
-        else {
-            System.out.println("Has acertado enhorabuena");
-        }
+
+        input.close();
+    }
+}
