@@ -64,9 +64,9 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 
 | Nombre | Descripción |
 |---|---|
-| [1.java](/Tema%205/1.java) | Pendiente de completar. |
-| [1.java](/Tema%205/1.java) | Pendiente de completar. |
-| [1.java](/Tema%205/1.java) | Pendiente de completar. |
+| [AleatorioAcert.java](/Tema%205/AleatorioAcert.java) | Muestra un mismo mensaje hasta que se adivine el número, indicando también si el numero es menor o mayor al indicado. |
+| [Buscar14.java](/Tema%205/Buscar14.java) | Muestra cuantas veces hay un 14 y termina cuando se escribe 27. |
+| [Vocal.java](/Tema%205/Vocal.java) | Muestra el número de vocales que hay en una palabra. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
