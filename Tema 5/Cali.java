@@ -20,9 +20,23 @@ Cualquier otro valor (negativo o mayor que 10) → “Nota inválida”
             System.exit();
         }
         else {
-            
+            if (n>= 9){
+                System.out.println("Sobresaliente");
+            }
+            else if (n>=7){
+                System.out.println("Notable");
+            }
+            else if (n>=6){
+                System.out.println("Bien");
+            }
+            else if (n>=5){
+                System.out.println("Aprobado");
+            }
+            else if (n>=0){
+                System.out.println("Suspenso");
+            }
         }
 
-
+        input.close();
     }
 }
