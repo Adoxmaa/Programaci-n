@@ -2,6 +2,16 @@
 
 Repositorio de ejercicios de programación en Java, organizados por temas.
 
+## Índice
+* [Tema 1 - Introducción a las computadoras, a los programas y Java](#tema-1---introducción-a-las-computadoras-a-los-programas-y-java)
+* [Tema 2 - Programación elemental](#tema-2---programación-elemental)
+* [Tema 3 - Selecciones](#tema-3---selecciones)
+* [Tema 4 - Métodos matemáticos, caracteres y cadenas](#tema-4---métodos-matemáticos-caracteres-y-cadenas)
+* [Tema 5 - Bucles](#tema-5---bucles)
+* [Tema 6 - Métodos](#tema-6---métodos)
+
+---
+
 ## Tema 1 - Introducción a las computadoras, a los programas y Java
 
 | Nombre | Descripción |
@@ -70,14 +80,13 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [Cali.java](/Tema%205/Cali.java) | Muestra la calificación textual de una nota númerica. |
 | [Cohete.java](/Tema%205/Cohete.java) |Muestra una cuenta atras desde el 5 hasta el 0 incluido y muestra un mensaje de despegue. |
 | [Escalera.java](/Tema%205/Escalera.java) | Pendiente de completar. |
-| [Primos.java](/Tema%205/Primos.java) | Muestra los números primos entre 2 y 50. |
+| [Primos.java](/Tema%205/Primos.java) | Muestra los números primos entre 2 and 50. |
 | [SumaFinal.java](/Tema%205/SumaFinal.java) | Muestra ala suma total de los números que se le hayan enviado. |
 | [Tabla9.java](/Tema%205/Tabla9.java) | Muestra la tabla del 9. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
-
 
 ## Tema 6 - Métodos
 
