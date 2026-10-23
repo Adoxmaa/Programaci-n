@@ -67,9 +67,17 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [AleatorioAcert.java](/Tema%205/AleatorioAcert.java) | Muestra un mismo mensaje hasta que se adivine el número, indicando también si el numero es menor o mayor al indicado. |
 | [Buscar14.java](/Tema%205/Buscar14.java) | Muestra cuantas veces hay un 14 y termina cuando se escribe 27. |
 | [Vocal.java](/Tema%205/Vocal.java) | Muestra el número de vocales que hay en una palabra. |
+| [Cali.java](/Tema%205/Cali.java) | Muestra la calificación textual de una nota númerica. |
+| [Cohete.java.java](/Tema%205/Cohete.java.java) |Muestra una cuenta atras desde el 5 hasta el 0 incluido y muestra un mensaje de despegue. |
+| [Escalera.java](/Tema%205/Escalera.java) | Pendiente de completar. |
+| [Primos.java](/Tema%205/Primos.java) | Muestra los números primos entre 2 y 50. |
+| [SumaFinal.java](/Tema%205/SumaFinal.java) | Muestra ala suma total de los números que se le hayan enviado. |
+| [Tabla9.java](/Tema%205/Tabla9.java) | Muestra la tabla del 9. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
+| [1.java](/Tema%205/1.java) | Pendiente de completar. |
+
 
 ## Tema 6 - Métodos
 
