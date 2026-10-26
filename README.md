@@ -83,7 +83,7 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [Primos.java](/Tema%205/Primos.java) | Muestra los números primos entre 2 and 50. |
 | [SumaFinal.java](/Tema%205/SumaFinal.java) | Muestra ala suma total de los números que se le hayan enviado. |
 | [Tabla9.java](/Tema%205/Tabla9.java) | Muestra la tabla del 9. |
-| [1.java](/Tema%205/1.java) | Pendiente de completar. |
+| [SumaMedia.java](/Tema%205/SumaMedia.java) | Muestra una suma de números continua dadas por el usuario hasta que se le mande un 0, indicando al final la suma total y la media. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
