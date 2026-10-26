@@ -10,6 +10,6 @@ y luego muestre “¡Despegue! 🚀”. Muestra un número por línea.
         System.out.println(i);
         i--;
         }
-        System.out.println("¡Despegue! \uD83D\uDE80");
+        System.out.println("¡Despegue!" + "\u1F680");
     }
 }
