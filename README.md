@@ -79,14 +79,14 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [Vocal.java](/Tema%205/Vocal.java) | Muestra el número de vocales que hay en una palabra. |
 | [Cali.java](/Tema%205/Cali.java) | Muestra la calificación textual de una nota númerica. |
 | [Cohete.java](/Tema%205/Cohete.java) |Muestra una cuenta atras desde el 5 hasta el 0 incluido y muestra un mensaje de despegue. |
-| [Escalera.java](/Tema%205/Escalera.java) | Pendiente de completar. |
+| [Escalera4.java](/Tema%205/Escalera4.java) | Pendiente de completar. |
 | [Primos.java](/Tema%205/Primos.java) | Muestra los números primos entre 2 and 50. |
 | [SumaFinal.java](/Tema%205/SumaFinal.java) | Muestra ala suma total de los números que se le hayan enviado. |
 | [Tabla9.java](/Tema%205/Tabla9.java) | Muestra la tabla del 9. |
 | [SumaMedia.java](/Tema%205/SumaMedia.java) | Muestra una suma de números continua dadas por el usuario hasta que se le mande un 0, indicando al final la suma total y la media. |
 | [Piramide.java](/Tema%205/Piramide.java) | Muestra una pirámide de números. |
 | [Factor.java](/Tema%205/Factor.java) | Muestra el resultado factorial de un número dado por el usuario. |
-| [EscaleraInversa.java](/Tema%205/EscaleraInversa.java) | Muestra una escalera fijada a la derecha. |
+| [EscaleraInversa4.java](/Tema%205/EscaleraInversa4.java) | Muestra una escalera fijada a la derecha. |
 
 ## Tema 6 - Métodos
 
