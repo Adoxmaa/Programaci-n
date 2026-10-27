@@ -4,10 +4,10 @@ public class Piramide {
             for (int esp=1; esp<=4 - i;esp++){
                 System.out.print("  ");
             }
-            for(int col=1; col<=i; col++){
+            for(int col=i; col>=1; col--){
                 System.out.print (col + " ");
             }
-            for(int col= i-1; col>=1; col--){
+            for(int col= 2; col<=i; col++){
                 System.out.print (col + " ");
             }
             System.out.println();
