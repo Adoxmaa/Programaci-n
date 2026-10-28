@@ -20,7 +20,7 @@ import java.util.Scanner;
 
             for (int j=1; j<=f; j++){
                 for (int k=1; k<=c; k++){
-                    System.out.print( j * k + " " );
+                    System.out.printf("%4d", j * k);
                 }
                 System.out.println();
             }
