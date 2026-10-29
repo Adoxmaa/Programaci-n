@@ -1,7 +1,8 @@
 public class Primos {
     public static void main(String[] args) {
+        boolean primo = true;
         for (int n = 2; n <= 50; n++) {
-            boolean primo = true;
+            primo = true;
 
             for (int d = 2; d < n; d++) {
                 if (n % d == 0) {
