@@ -3,7 +3,7 @@ public class Primos {
         for (int n = 2; n <= 50; n++) {
             boolean primo = true;
 
-            for (int d = 2; d <= n / 2; d++) {
+            for (int d = 2; d < n; d++) {
                 if (n % d == 0) {
                     primo = false;
                 }
