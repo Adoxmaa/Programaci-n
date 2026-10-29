@@ -87,6 +87,18 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [Piramide.java](/Tema%205/Piramide.java) | Muestra una pirámide de números. |
 | [Factor.java](/Tema%205/Factor.java) | Muestra el resultado factorial de un número dado por el usuario. |
 | [EscaleraInversa4.java](/Tema%205/EscaleraInversa4.java) | Muestra una escalera fijada a la derecha. |
+| [AST.java](/Tema%205/AST.java) | Muestra un rectángulo formado por asteriscos, el tamaño del rectángulo dependerá del numero de filas y columnas dadas por el usuario. |
+| [Contarr.java](/Tema%205/Contarr.java) | Muestra cuantas cifras tiene un texto (sin convertir a texto). |
+| [Matriz.java](/Tema%205/Matriz.java) | Muestra una matriz en la que cada posición contenga el número de su fila multiplicado por el número de su columna, indicadas por el usuario el número de columnas y filas. |
+| [NC.java](/Tema%205/NC.java) | Muestra un cuadrado numérico, indicando el usuario un numero, el cual mostrara cierto numero de filas y columnas y cada fila ira desde el 1 hasta dicho número.  |
+| [Parr.java](/Tema%205/Parr.java) | Muestra los números primos entre el 1 y dicho número dado por el usuario. |
+| [TFP.java](/Tema%205/TFP.java) | Muestra si dicho número indicado por el usuario es primo o no es primo. |
+| [1.java](/Tema%205/1.java) | Pendiente de completar. |
+| [1.java](/Tema%205/1.java) | Pendiente de completar. |
+| [1.java](/Tema%205/1.java) | Pendiente de completar. |
+| [1.java](/Tema%205/1.java) | Pendiente de completar. |
+| [1.java](/Tema%205/1.java) | Pendiente de completar. |
+
 
 ## Tema 6 - Métodos
 
