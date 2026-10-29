@@ -2,8 +2,10 @@ public class Primos {
     public static void main(String[] args) {
         boolean primo = true;
         final int MAXP = 50;
-        System.out.println("Lista de los primeros 50 números primos");
-        for (int n = 2; n <= MAXP; n++) {
+        int n = 2;
+        System.out.println("Lista de los números primos entre 1 y " + MAXP + ":");
+        System.out.println("====================================================");        
+        for (n = 2; n <= MAXP; n++) {
             primo = true;
 
             for (int d = 2; d < n; d++) {
@@ -13,8 +15,13 @@ public class Primos {
             }
 
             if (primo) {
-                System.out.println(n);
+                if ( n == MAXP -3){
+                    System.out.print(n + ".");
+                }
+                else {
+                System.out.print(n + ", ");
+                    }
+                }
             }
         }
     }
-}
