@@ -93,7 +93,7 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [NC.java](/Tema%205/NC.java) | Muestra un cuadrado numérico, indicando el usuario un numero, el cual mostrara cierto numero de filas y columnas y cada fila ira desde el 1 hasta dicho número.  |
 | [Parr.java](/Tema%205/Parr.java) | Muestra los números primos entre el 1 y dicho número dado por el usuario. |
 | [TFP.java](/Tema%205/TFP.java) | Muestra si dicho número indicado por el usuario es primo o no es primo. |
-| [1.java](/Tema%205/1.java) | Pendiente de completar. |
+| [P3R.java](/Tema%205/P3R.java) | Muestra los números primos entre dos números dados por el usuario. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
 | [1.java](/Tema%205/1.java) | Pendiente de completar. |
