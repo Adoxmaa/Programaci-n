@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class p1 {
+public class Vocal {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Introduzca una palabra");
