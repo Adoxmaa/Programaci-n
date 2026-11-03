@@ -94,10 +94,6 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [Parr.java](/Tema%205/Parr.java) | Muestra los números primos entre el 1 y dicho número dado por el usuario. |
 | [TFP.java](/Tema%205/TFP.java) | Muestra si dicho número indicado por el usuario es primo o no es primo. |
 | [P3R.java](/Tema%205/P3R.java) | Muestra los números primos entre dos números dados por el usuario. |
-| [1.java](/Tema%205/1.java) | Pendiente de completar. |
-| [1.java](/Tema%205/1.java) | Pendiente de completar. |
-| [1.java](/Tema%205/1.java) | Pendiente de completar. |
-| [1.java](/Tema%205/1.java) | Pendiente de completar. |
 
 
 ## Tema 6 - Métodos
