@@ -11,8 +11,8 @@ public class Factor {
          * el factorial de 8 es igual a 1*2*3*4*5*6*7*8
          * el factorial de 1 es igual a 1
          */
-BufferedReader reader= new BufferedReader (new InputStreamReader (System.in));        
-System.out.println("Introduza un número entero positivo para calcular el factorial");
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        System.out.println("Introduza un número entero positivo para calcular el factorial");
         int num = Integer.parseInt(reader.readLine());
         if (num < 0) {
             System.out.println("Error Introduzca un número positivo");
