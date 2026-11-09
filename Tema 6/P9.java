@@ -29,7 +29,7 @@ public class P9 {
             case 1:
                 System.out.println("Ingrese un número para saber si es Capícua:");
                 int original =sc.nextInt();
-
+            
 
             
                 break;
