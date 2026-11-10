@@ -102,7 +102,7 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 |---|---|
 | [Bibli.java](/Tema%206/Bibli.java) | Muestra un menú con variadas opciones utilizando metodos. |
 | [MAXX.java](/Tema%206/MAXX.java) | Muestra el máximo de un número con funciones. |
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
+| [MAXXX3.java](/Tema%206/MAXXX3.java) | Muestra el máximo de tres números con funciones. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
