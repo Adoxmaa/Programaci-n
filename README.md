@@ -100,8 +100,8 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 
 | Nombre | Descripción |
 |---|---|
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
+| [Bibli.java](/Tema%206/Bibli.java) | Muestra un menú con variadas opciones utilizando metodos. |
+| [MAXX.java](/Tema%206/MAXX.java) | Muestra el máximo de un número con funciones. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
