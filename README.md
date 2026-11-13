@@ -9,6 +9,8 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 * [Tema 4 - Métodos matemáticos, caracteres y cadenas](#tema-4---métodos-matemáticos-caracteres-y-cadenas)
 * [Tema 5 - Bucles](#tema-5---bucles)
 * [Tema 6 - Métodos](#tema-6---métodos)
+* [Tema 7 - Matrices Unidimensionales](#tema-7---Matrices Unidimensionales)
+* [Tema 8 - Matrices Multidimensionales](#tema-6---Matrices Multidimensionales)
 
 ---
 
