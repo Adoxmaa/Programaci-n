@@ -104,13 +104,44 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [MAXX.java](/Tema%206/MAXX.java) | Muestra el máximo de un número con funciones. |
 | [MAXXX3.java](/Tema%206/MAXXX3.java) | Muestra el máximo de tres números con funciones. |
 | [Cilindro.java](/Tema%206/Cilindro.java) | Muestra el volumen de un cilindro, calculándolo a partir de funciones. |
+| [DPRIMOS.java](/Tema%206/DPRIMOS.java) | Muestra el número de divisores primos que tiene cierto número. |
+| [Amigos.java](/Tema%206/Amigos.java) | Muestra si dos números son amigos a partir de funciones. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
+
+
+## Tema 7 - Matrices Unidimensionales
+
+| Nombre | Descripción |
+|---|---|
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+
+
+## Tema 8 - Matrices Multidimensionales
+
+| Nombre | Descripción |
+|---|---|
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
+| [1.java](/Tema%208/1.java) | Pendiente de completar. |
 
