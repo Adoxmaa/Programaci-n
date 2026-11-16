@@ -108,7 +108,7 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [Cilindro.java](/Tema%206/Cilindro.java) | Muestra el volumen de un cilindro, calculándolo a partir de funciones. |
 | [DPRIMOS.java](/Tema%206/DPRIMOS.java) | Muestra el número de divisores primos que tiene cierto número. |
 | [Amigos.java](/Tema%206/Amigos.java) | Muestra si dos números son amigos a partir de funciones. |
-| [1.java](/Tema%206/1.java) | Pendiente de completar. |
+| [QueDiaFue.java](/Tema%206/QueDiaFue.java) | Muestra el resultado de leer una fecha valida por teclado y calcula el día de la semana que corresponde a esa fecha. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
 | [1.java](/Tema%206/1.java) | Pendiente de completar. |
 
