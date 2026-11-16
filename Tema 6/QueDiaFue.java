@@ -25,82 +25,110 @@ public class QueDiaFue {
    * a = mes – 2
    * b = año % 100
    * c = año / 100
-   * 
-   * 
+   *
+   *
    * El valor de n indicará 0 para domingo, 1 para lunes, 2 para martes,…
    */
 
-  public static int AñoValido(int año) {
-          Scanner sc = new Scanner(System.in);
+  static Scanner sc = new Scanner(System.in);
+
+  public static int AñoValido() {
+    int año;
     do {
-      System.out.println("Introduzca un año (Desde 1583 en adelante");
+      System.out.println("Introduzca un año (Desde 1583 en adelante):");
       año = sc.nextInt();
     } while (año < 1583);
-        sc.close();
     return año;
   }
 
-  public static int MesValido (int mes){
-          Scanner sc = new Scanner(System.in);
+  public static int MesValido() {
+    int mes;
     do {
-      System.out.println("Introduzca un mes (Desde 1-12)");
+      System.out.println("Introduzca un mes (Desde 1-12):");
       mes = sc.nextInt();
-    } while (mes <=0 || mes>=13);
-        sc.close();
+    } while (mes <= 0 || mes >= 13);
     return mes;
   }
 
-  public static int DiaValido (int año, int mes){
-            Scanner sc = new Scanner(System.in);
-    do {
-      System.out.println("Introduzca un mes (Desde 1-12)");
-      dia = sc.nextInt();
-    } while (dia <=0 || mes>=31);
-        sc.close();
-    return dia;    
+  public static boolean esBisiesto(int año) {
+    return (año % 4 == 0 && año % 100 != 0) || año % 400 == 0;
   }
-  public static int DiaSemana (int año, int mes, int dia){
+
+  public static int diasMes(int año, int mes) {
+    switch (mes) {
+      case 2:
+        return esBisiesto(año) ? 29 : 28;
+      case 4:
+      case 6:
+      case 9:
+      case 11:
+        return 30;
+      default:
+        return 31;
+    }
+  }
+
+  public static int DiaValido(int año, int mes) {
+    int dia;
+    int max = diasMes(año, mes);
+    do {
+      System.out.println("Introduzca un día (Desde 1-" + max + "):");
+      dia = sc.nextInt();
+    } while (dia <= 0 || dia > max);
+    return dia;
+  }
+
+  public static int DiaSemana(int año, int mes, int dia) {
     int a;
     int b;
     int c;
-    
-    if (mes== 1 || mes==2){
-       a = mes + 10;
-   b = (año - 1) % 100;
-    c = (año - 1) / 100;
-    }
-    else {
-    a = mes – 2;
-   b = año % 100;
-   c = año / 100;
-    }
-    int n=(700 + (26 * a -2) / 10 + dia + b + b / 4 + c / 4 - 2 * c) % 7;
-    return n; 
 
+    if (mes == 1 || mes == 2) {
+      a = mes + 10;
+      b = (año - 1) % 100;
+      c = (año - 1) / 100;
+    } else {
+      a = mes - 2;
+      b = año % 100;
+      c = año / 100;
+    }
+    int n = (700 + (26 * a - 2) / 10 + dia + b + b / 4 + c / 4 - 2 * c) % 7;
+    // La fórmula da 0 para domingo; el enunciado pide valores de 1 a 7
+    if (n == 0) {
+      n = 7;
+    }
+    return n;
   }
 
-    public static String DiaLetra (DiaSemana){
-      int n= DiaSemana;
-      String D="";
-      switch (D){
-        case(1): return D="Lunes";
-        case(2): return D="Martes";
-        case(3): return D="Miercoles";
-        case(4): return D="Jueves";
-        case(5): return D="Viernes";
-        case(6): return D="Sabado";
-        case(7): return D="Domingo";
-
-      }
+  public static String DiaLetra(int n) {
+    switch (n) {
+      case 1:
+        return "Lunes";
+      case 2:
+        return "Martes";
+      case 3:
+        return "Miércoles";
+      case 4:
+        return "Jueves";
+      case 5:
+        return "Viernes";
+      case 6:
+        return "Sábado";
+      case 7:
+        return "Domingo";
+      default:
+        return "Día no válido";
     }
   }
 
   public static void main(String[] args) {
-      Scanner sc = new Scanner(System.in);
+    int año = AñoValido();
+    int mes = MesValido();
+    int dia = DiaValido(año, mes);
 
-    int año = AñoValido;
-    int mes = MesValido;
-    int dia = DiaValido;
-    System.out.println("Hi");
+    int n = DiaSemana(año, mes, dia);
+    System.out.println(dia + "/" + mes + "/" + año + " es " + DiaLetra(n));
+
+    sc.close();
   }
-
+      }
