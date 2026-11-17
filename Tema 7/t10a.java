@@ -9,12 +9,11 @@ public class t10a {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] num = new int[10];
-        int i = num.length;
         System.out.println("Introduzca un número");
         for (int j = 0; j < num.length; j++) {
-            num[j] = i = input.nextInt();
+            num[j] = input.nextInt();
         }
-        for (; i >= 0; i--) {
+        for(int i=9; i< num.length; i--){
             System.out.println(num[i]);
         }
     }
