@@ -121,7 +121,7 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [pares100a.java](/Tema%207/pares100a.java) |Muestra en orden ascendente los números pares comprendidos entre 1 y 100 con array. |
 | [primos100a.java](/Tema%207/primos100a.java) | Muestra los números primos comprendidos entre 1 y 100 con array. |
 | [t100a.java](/Tema%207/t100a.java) | Muestra 10 números dados por el usuario en orden inverso y utilizando array.|
-| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [t10aems.java](/Tema%207/t10aems.java) | Muestra la suma, resta, multiplicación y división de 10 números dados por el usuario utilizando array. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
