@@ -13,7 +13,7 @@ public class t10a {
         for (int j = 0; j < num.length; j++) {
             num[j] = input.nextInt();
         }
-        for(int i=9; i< num.length; i--){
+        for(int i=num.length - 1; i< num.length; i--){
             System.out.println(num[i]);
         }
     }
