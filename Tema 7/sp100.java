@@ -4,8 +4,8 @@ public class sp100 {
      * primeros números pares y muestre su suma.
      */
     public static void main(String[] args) {
-        int[] num = new int[50];
-        for (int i = 0, j = 2; j <= 100; i++, j = j + 2) {
+        int[] num = new int[100];
+        for (int i = 0, j = 2; i < num.length; i++, j = j + 2) {
             num[i] = j;
         }
         for (int i = 0; i < num.length; i++) {
