@@ -124,7 +124,7 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [t10aems.java](/Tema%207/t10aems.java) | Muestra la suma, resta, multiplicación y división de 10 números dados por el usuario utilizando array. |
 | [sp100.java](/Tema%207/sp100.java) | Muestra los primeros 100 números pares y su suma, utilizando array. |
 | [t10m.java](/Tema%207/t10m.java) | Muestra la media de 10 números dados por el usuario, utilizando array. |
-| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [t10fa.java](/Tema%207/t10fa.java) | Muestra en orden ascendente 10 números dados por teclado. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
