@@ -122,11 +122,24 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [primos100a.java](/Tema%207/primos100a.java) | Muestra los números primos comprendidos entre 1 y 100 con array. |
 | [t10a.java](/Tema%207/[t10a.java) | Muestra 10 números dados por el usuario en orden inverso y utilizando array.|
 | [t10aems.java](/Tema%207/t10aems.java) | Muestra la suma, resta, multiplicación y división de 10 números dados por el usuario utilizando array. |
+| [sp100.java](/Tema%207/sp100.java) | Muestra los primeros 100 números pares y su suma, utilizando array. |
+| [t10m.java](/Tema%207/t10m.java) | Muestra la media de 10 números dados por el usuario, utilizando array. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+
 
 
 ## Tema 8 - Matrices Multidimensionales
