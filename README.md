@@ -125,7 +125,7 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [sp100.java](/Tema%207/sp100.java) | Muestra los primeros 100 números pares y su suma, utilizando array. |
 | [t10m.java](/Tema%207/t10m.java) | Muestra la media de 10 números dados por el usuario, utilizando array. |
 | [t10fa.java](/Tema%207/t10fa.java) | Muestra en orden ascendente 10 números dados por teclado. |
-| t10div.java](/Tema%207/t10div.java) | Muestra 10 numeros en pantalla almacenado en un solo array, el cual es el almacenamiento de dos arrays que almacenan 5 números de 10 números dado por el usuario almacenado en otro array . |
+| [t10div.java](/Tema%207/t10div.java) | Muestra 10 numeros en pantalla almacenado en un solo array, el cual es el almacenamiento de dos arrays que almacenan 5 números de 10 números dado por el usuario almacenado en otro array . |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
