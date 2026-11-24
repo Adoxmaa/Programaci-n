@@ -127,9 +127,9 @@ Repositorio de ejercicios de programación en Java, organizados por temas.
 | [t10fa.java](/Tema%207/t10fa.java) | Muestra en orden ascendente 10 números dados por teclado. |
 | [t10div.java](/Tema%207/t10div.java) | Muestra 10 numeros en pantalla almacenado en un solo array, el cual es el almacenamiento de dos arrays que almacenan 5 números de 10 números dado por el usuario almacenado en otro array . |
 | [t5v.java](/Tema%207/t5v.java) | Muestra los números de un array el cual copia los números del array que almacena 5 números introducidos por el usuario multiplicados por 2. |
-| [t5v1.java](/Tema%207/t5v1.java) |     Muestra un array con los numeros ordenados, el cual es una copia de otro array que copia y multiplica por 2 el array que contiene los números introducidos por el usuario. |
-| [1.java](/Tema%207/1.java) | Pendiente de completar. |
-| [1.java](/Tema%207/1.java) | Pendiente de completar. |
+| [t5v1.java](/Tema%207/t5v1.java) | Muestra un array con los numeros ordenados, el cual es una copia de otro array que copia y multiplica por 2 el array que contiene los números introducidos por el usuario. |
+| [cadrever.java](/Tema%207/cadrever.java) | Muestra una cadena introducida al reves. |
+| [A20nc.java](/Tema%207/A20nc.java) | Muestra la posición en la que esta dicho número en el array. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
 | [1.java](/Tema%207/1.java) | Pendiente de completar. |
